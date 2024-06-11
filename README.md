@@ -9,17 +9,18 @@ This repository contains the solutions to two tasks assigned during the assessme
 In this task, I employed machine learning techniques to predict the species of flowers based on certain features. The dataset provided was preprocessed to handle missing values and categorical variables. I explored various algorithms such as Logistic regression, and Gradient Boosting to find the best model for the prediction. The final model's performance metrics, including accuracy, precision, recall, and F1-score, are provided in the corresponding notebook.
 
 This dataset contains information about flowers with the attributes like:
-`Id: Unique identifier for each entry.`
 
-`Sepal Length (cm): Length of the sepal in centimeters.`
+`Id`: Unique identifier for each entry.
 
-`Sepal Width (cm): Width of the sepal in centimeters.`
+`Sepal Length (cm)`: Length of the sepal in centimeters.
 
-`Petal Length (cm): Length of the petal in centimeters.`
+`Sepal Width (cm)`: Width of the sepal in centimeters.
 
-`Petal Width (cm): Width of the petal in centimeters.`
+`Petal Length (cm)`: Length of the petal in centimeters.
 
-`Species: The species of the flower.`
+`Petal Width (cm)`: Width of the petal in centimeters.
+
+`Species`: The species of the flower.
 
 ## Task 2: Movie Recommendation System
 For the movie recommendation system task, I implemented collaborative filtering techniques to recommend movies to users based on their past preferences and ratings. I used the MovieLens dataset and explored different collaborative filtering algorithms such as user-based and item-based approaches. Additionally, The notebook contains an evaluation of the recommendation system using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
