@@ -10,10 +10,15 @@ In this task, I employed machine learning techniques to predict the species of f
 
 This dataset contains information about flowers with the attributes like:
 `Id: Unique identifier for each entry.`
+
 `Sepal Length (cm): Length of the sepal in centimeters.`
+
 `Sepal Width (cm): Width of the sepal in centimeters.`
+
 `Petal Length (cm): Length of the petal in centimeters.`
+
 `Petal Width (cm): Width of the petal in centimeters.`
+
 `Species: The species of the flower.`
 
 ## Task 2: Movie Recommendation System
